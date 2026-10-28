@@ -4,8 +4,6 @@ A local-first AI portfolio project for organizing civic infrastructure reports, 
 
 **Status:** Working portfolio MVP · Synthetic demonstration data · Heuristic-based AI
 
-> This is an experimental portfolio project, not a production municipal service.
-
 ## Overview
 
 Civic infrastructure reports can be repetitive, inconsistently described, and difficult to prioritize. CivicSignal AI explores how lightweight natural language processing and geographic proximity can support more organized incident triage.
@@ -150,7 +148,3 @@ This is a proposed research direction, not a completed experimental finding.
 - Study threshold sensitivity and confidence calibration.
 - Improve explainability and error analysis.
 - Strengthen validation, privacy safeguards, and deployment testing.
-
-## License
-
-See [LICENSE](LICENSE) for licensing information.
