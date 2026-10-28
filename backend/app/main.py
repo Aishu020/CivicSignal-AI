@@ -15,7 +15,17 @@ class IncidentCreate(BaseModel):
 @asynccontextmanager
 async def lifespan(app):init_db();seed_if_empty();yield
 app=FastAPI(title='CivicSignal AI API',version='0.1.0',lifespan=lifespan)
-app.add_middleware(CORSMiddleware,allow_origins=['http://localhost:5173','http://127.0.0.1:5173'],allow_methods=['*'],allow_headers=['*'])
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        "https://civicsignal-ai.vercel.app",
+    ],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 def asdict(r):return dict(r)
 @app.get('/')
 def root():return {'name':'CivicSignal AI','status':'ok','docs':'/docs'}
