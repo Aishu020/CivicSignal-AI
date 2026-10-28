@@ -1,16 +1,16 @@
-# \# CivicSignal AI — Urban Infrastructure Early Warning
+##CivicSignal AI — Urban Infrastructure Early Warning
 
 # 
 
-# CivicSignal AI is a local-first AI portfolio project that helps organize urban infrastructure reports, identify potentially duplicated complaints, prioritize incidents using transparent scoring, and visualize civic issues on an interactive map.
+CivicSignal AI is a local-first AI portfolio project that helps organize urban infrastructure reports, identify potentially duplicated complaints, prioritize incidents using transparent scoring, and visualize civic issues on an interactive map.
 
 # 
 
-# The project explores how lightweight natural language processing and geographic proximity can support more efficient civic issue triage.
+The project explores how lightweight natural language processing and geographic proximity can support more efficient civic issue triage.
 
 # 
 
-# > \*\*Project status:\*\* Working portfolio MVP. Uses synthetic demonstration data and heuristic-based AI components. It is not a production municipal service.
+##Project status:Working portfolio MVP. Uses synthetic demonstration data and heuristic-based AI components. It is not a production municipal service.
 
 # 
 
