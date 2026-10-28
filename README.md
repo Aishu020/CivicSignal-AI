@@ -140,6 +140,23 @@ This is a proposed research direction, not a completed experimental finding.
 - Human review is necessary before merging reports or taking action.
 - The application is a portfolio prototype, not a production-ready civic service.
 
+## Screenshot
+
+<img width="949" height="437" alt="image" src="https://github.com/user-attachments/assets/ba916c50-6c60-442f-ba7a-aa25f8c3ae6a" />
+
+<img width="945" height="434" alt="image" src="https://github.com/user-attachments/assets/60cde30d-a463-4b5a-b0f0-d301564e8ca1" />
+
+<img width="959" height="442" alt="image" src="https://github.com/user-attachments/assets/e8043854-6398-4179-bb01-eeb0fb32fa6f" />
+
+<img width="941" height="438" alt="image" src="https://github.com/user-attachments/assets/09560f59-cdd1-411c-af2b-c36f0fd0f7a3" />
+
+<img width="946" height="434" alt="image" src="https://github.com/user-attachments/assets/ceb7f137-e871-47a7-9cd7-26b277dd9d5a" />
+
+<img width="950" height="435" alt="image" src="https://github.com/user-attachments/assets/4b97dfd3-7e2b-443c-9d28-8b907e4d1545" />
+
+<img width="948" height="434" alt="image" src="https://github.com/user-attachments/assets/f3e7b20b-e55e-42cd-b984-090fbd633bcd" />
+
+
 ## Future Work
 
 - Evaluate using a licensed public complaint dataset.
